@@ -553,7 +553,7 @@ body.offcanvas {
 
 .project {
   background-size: cover;
-  background-position: center center;
+  background-position: left center;
   background-repeat: no-repeat;
   position: relative;
   height: 450px;
